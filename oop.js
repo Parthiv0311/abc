@@ -85,7 +85,7 @@ function Hamburger() {
     this.garnishes = [];
     this.cheeses = [];
     this.sauces = [];
-    this.meat = 'beef';
+    this.meat = 'aloo-patty';
     this.pattyCount = 1;
     this.extras = [];
 
